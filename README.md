@@ -1,4 +1,4 @@
-# Proyecto-an-lisis-de-datos---Contrataci-n-estatal - Parte 1
+# Proyecto de análisis de datos – Compra pública 2023 – Parte 1
 
 Se requiere realizar un estudio general sobre la compra pública en Colombia para el año 2023 a la fecha (2 de marzo de 2024), por lo cual se determinó consolidar la información que registra para las tres plataformas que componen el Sistema Electrónico de Contratación Pública - SECOP: (i) SECOP I, SECOP II y Tienda Virtual del Estado Colombiano – TVEC. 
 Principal problema a resolver:
