@@ -13,10 +13,10 @@ En consecuencia, este primer ejercicio consiste en realizar los siguientes proce
 Fuentes de datos:
 
 	Portal de datos abiertos, conjunto de datos SECOP I - Procesos de Compra Pública
-Se descarga un archivo csv llamado Data_analytics_SECOP_1.csv.
 https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-I-Procesos-de-Compra-P-blica/f789-7hwg/data
- 
+Se descarga un archivo csv llamado Data_analytics_SECOP_1.csv.
 
+ 
 	Portal de datos abiertos, conjunto de datos SECOP II - Contratos Electrónicos
 https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Contratos-Electr-nicos/jbjy-vk9h/data
 Se descarga un archivo csv llamado Data_analytics_SECOP_2.csv. 
@@ -26,5 +26,4 @@ Se descarga un archivo csv llamado Data_analytics_SECOP_2.csv.
 https://www.datos.gov.co/Gastos-Gubernamentales/Tienda-Virtual-del-Estado-Colombiano-Consolidado/rgxm-mmea/data
 Se descarga un archivo csv llamado Data_analytics_TVEC.csv 
 
- 
- Nota: La calidad de los datos depende de cada entidad estatal
+Nota: La calidad de los datos depende de cada entidad estatal
