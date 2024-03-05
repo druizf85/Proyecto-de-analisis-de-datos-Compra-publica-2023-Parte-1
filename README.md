@@ -1,6 +1,6 @@
 # Proyecto de análisis de datos – Compra pública 2023 – Parte 1
 
-Se requiere realizar un estudio general sobre la compra pública en Colombia para el año 2023 a la fecha (2 de marzo de 2024), por lo cual se determinó consolidar la información que registra para las tres plataformas que componen el Sistema Electrónico de Contratación Pública - SECOP: (i) SECOP I, SECOP II y Tienda Virtual del Estado Colombiano – TVEC. 
+Se requiere realizar un estudio general sobre la compra pública en Colombia para el año 2023, por lo cual se determinó consolidar la información que registra para las tres plataformas que componen el Sistema Electrónico de Contratación Pública - SECOP: (i) SECOP I, SECOP II y Tienda Virtual del Estado Colombiano – TVEC. 
 Principal problema a resolver:
 Este procedimiento inicial contempla la manipulación de bases de datos con un gran volumen de información, por lo cual necesitaremos usar un lenguaje de programación, para este caso Python y sus librerías de manipulación de bases de datos y herramientas gráficas para determinación de valores atípicos.
 En consecuencia, este primer ejercicio consiste en realizar los siguientes procedimientos a las bases de datos en formato csv.: 
