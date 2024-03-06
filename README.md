@@ -22,7 +22,9 @@ Se descarga un archivo csv llamado Data_analytics_SECOP_2.csv. peso 1,5 GB aprox
 https://www.datos.gov.co/Gastos-Gubernamentales/Tienda-Virtual-del-Estado-Colombiano-Consolidado/rgxm-mmea/data
 Se descarga un archivo csv llamado Data_analytics_TVEC.csv. peso 500 MB aprox.
 
-Principal problema a resolver:
+Cabe mencionar que al ser esta base de datos diligenciada por entidades estatales, hay mucha información que se debe analizar al detalle dependiendo del modelo del negocio y del mercado. Por lo cual, los criterios que se generen como un error o datos que no fueron registrados por las entidades fueron modificados con el fin de poder realizar este ejercicio. En consecuencia, las conclusiones que de aquí se realicen van a ser de una muestra de contratos, mas no necesariamente reflejarán la realidad absoluta del mercado. 
+
+Principal problema a resolver en esta primera parte del proyecto:
 
 Este procedimiento inicial contempla la manipulación de bases de datos con un gran volumen de información, por lo cual necesitaremos usar un lenguaje de programación, para este caso Python y sus librerías de manipulación de bases de datos y herramientas gráficas para determinación de valores atípicos.
 En consecuencia, este primer ejercicio consiste en realizar los siguientes procedimientos a las bases de datos en formato csv: 
@@ -31,4 +33,4 @@ En consecuencia, este primer ejercicio consiste en realizar los siguientes proce
 -	Verificación de los estados de los contratos en SECOP, eliminar los estados que no corresponden con contratos firmados.
 -	Agrupaciones de las modalidades de contratación y tipos de contrato identificados
 -	La identificación de valores atípicos.
--	Integración de las tres bases de datos para hacer un análisis integral.
+-	Integración de las tres bases de datos para hacer un análisis consolidado.
